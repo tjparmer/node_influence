@@ -26,10 +26,12 @@ Note: the scripts above were created from the functions originally used in the j
 - See Comparing Influence in Boolean Networks.ipynb for figure results used in the paper.
 
 
-The corresponding paper has been submitted for publication.
+The corresponding paper has been published in Royal Society Open Science [2] with corresponding Zenodo repository https://zenodo.org/records/10064204
 
 References:
 ---------
 
 [1] Tom´aˇs Helikar, Bryan Kowal, Sean McClenathan, Mitchell Bruckner, Thaine Rowley, Alex Madrahimov, Ben Wicks, Manish Shrestha, Kahani Limbu, and Jim A
 Rogers. The cell collective: toward an open and collaborative approach to systems biology. BMC systems biology, 6(1):1–14, 2012.
+
+[2] Parmer Thomas and Radicchi Filippo. 2023. Dynamical methods for target control of biological networks. R. Soc. open sci.10230542230542. https://doi.org/10.1098/rsos.230542
